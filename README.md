@@ -5,7 +5,7 @@
 Para rodar o projeto, utilize (no terminal):
 
     $ cd *pasta_do_projeto*
-    $ node somaDivisores.js
+    $ node somaDivisiveis.js
 
 Para testar o projeto, utilize (no editor):
 
